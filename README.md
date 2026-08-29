@@ -13,3 +13,4 @@ Adicionalmente "picaremos" unos botones en GitHub para que la magia suceda.
 + Paso: Crear archivo "_quarto.yml"
 + Paso 2: Crear el archivo "index.qmd"
 + Paso 3: Picar botones en GitHyub. Settings -> Pages -> GitHub Actions
++ Paso 4: Crear el archivo de configuración de la acción de GitHub que construirá y desplegará nuestro sitio. Este archivo debe estar dentro de carpetas con nombres muy específicos.
