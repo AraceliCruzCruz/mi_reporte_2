@@ -10,5 +10,6 @@ Para esta versión muy básica solo necesitaremos crear 3 archivos:
 
 Adicionalmente "picaremos" unos botones en GitHub para que la magia suceda.
 
-Paso: Crear archivo "_quarto.yml"
-
++ Paso: Crear archivo "_quarto.yml"
++ Paso 2: Crear el archivo "index.qmd"
++ Paso 3: Picar botones en GitHyub. Settings -> Pages -> GitHub Actions
